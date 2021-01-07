@@ -20,7 +20,7 @@
 
 <img src="./assets/readme/badge.png" title="Badge" width="70" height="70">
 
-Curso do Bootcamp Avanade Fullstack Developer da [Digital Innovation One](https://digitalinnovation.one/).
+Curso do Bootcamp Avanade Full-stack Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. Vamos repassar brevemente os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade.
 
