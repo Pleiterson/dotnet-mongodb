@@ -26,9 +26,9 @@ Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB,
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
-- [.NET Core](ttps://dotnet.microsoft.com/download)
-- [MongoDB](ttps://www.mongodb.com/cloud/atlas/register)
-- [Postman](ttps://www.postman.com/downloads/)
+- [.NET Core](https://dotnet.microsoft.com/download)
+- [MongoDB](https://www.mongodb.com/cloud/atlas/register)
+- [Postman](https://www.postman.com/downloads/)
 
 <!--License session-->
 <h3>📝 Licença</h3>
